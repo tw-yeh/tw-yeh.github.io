@@ -47,7 +47,6 @@ body main section.main-area {
 }
 body main section.main-area div.info {
   flex-basis: 450px;
-  //** border: 2px solid black;
   padding: 1rem;
 }
 body main section.main-area div.info h1 {
@@ -72,7 +71,6 @@ body main section.main-area div.info a:hover {
 }
 body main section.main-area div.img-area {
   flex-basis: 450px;
-  //** border: 2px solid red;
 }
 body main section.main-area div.img-area img {
   width: 100%;
@@ -100,7 +98,6 @@ body main section.resume {
 }
 body main section.resume section.table {
   flex: 5 0 500px;
-  //** border: 2px solid red;
   padding: 2rem;
 }
 body main section.resume section.table table {
@@ -175,3 +172,4 @@ body main section.resume section.picture div.greenRect3 {
   body nav ul {
     flex-direction: column;
   }
+}/*# sourceMappingURL=style.css.map */
